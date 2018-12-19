@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+[预览](http://act.cqnews.net/lfq/#/)
+
 ## Build Setup
 
 ``` bash
